@@ -1,7 +1,7 @@
 name: Newly
 favicon: null
-layout_spectrum: 0.9849105509929359
-typography_spectrum: 0.4957785939332098
+layout_spectrum: 0.74653
+typography_spectrum: 0.25328
 title: Newly Design Agency
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.5404177180025727
-  lightness: 0.9638045069295913
-  saturation: 0.5016777038108557
-  rhythmicContrast: 0.16053681098856032
+    - '#ed1932'
+    - '#ffffff'
+    - '#ef91d3'
+    - '#f9996f'
+    - '#ee2865'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.0625
+  rhythmicContrast: 0.25
 purpose: []
