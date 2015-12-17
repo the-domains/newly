@@ -2,14 +2,14 @@
     <channel>
         <title><![CDATA[Newly Design Agency]]></title>
         <description><![CDATA[Newly Design Agency]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/newly/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 15:57:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Dec 2015 15:57:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/newly/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About me]]></title>
             <description><![CDATA[<h1>About me</h1>]]></description>
-            <link>undefinedabout-me/index.html</link>
+            <link>https://thegrid.ai/newly/about-me/index.html</link>
             <guid isPermaLink="false">dbe01e7d-332a-40f9-81fc-207aeac18914</guid>
             <pubDate>Thu, 17 Dec 2015 15:57:31 GMT</pubDate>
         </item>
